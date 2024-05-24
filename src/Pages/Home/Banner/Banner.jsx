@@ -23,12 +23,12 @@ const Banner = () => {
                 className="grow text-black "
                 placeholder="Address, City, Zip"
               />
-              <button>
+              <button className=" ">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 16 16"
                   fill="currentColor"
-                  className="w-8 h-8  text-black"
+                  className="w-8 h-8 text-black transform transition-transform duration-300 hover:scale-150"
                 >
                   <path
                     fillRule="evenodd"
