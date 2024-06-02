@@ -1,7 +1,7 @@
 const Tips = () => {
   return (
-    <div className="card lg:card-side max-w-screen-2xl mx-auto my-8 min-h-screen">
-      <div className=" lg:w-1/2 mx-auto lg:mt-72 ">
+    <div className="card lg:card-side max-w-screen-2xl mx-auto mt-8 min-h-screen">
+      <div className=" lg:w-1/2 mx-auto lg:mt-72 " >
         <h2 className=" md:text-8xl text-5xl">
           Renter tips
           <br /> and <span className=" text-blue-500">insights</span>
@@ -29,12 +29,11 @@ const Tips = () => {
               Big Cities Where Rent Prices are Actually Decreasing
             </h2>
             <p>
-              Apartment hunting can be exciting, yet overwhelming. Simplify the
-              task by getting organized.
+            Rent is on the rise — but not everywhere. These big cities are seeing rent decreases.
             </p>
           </div>
         </div>
-        <div className="md:grid md:grid-cols-2 items-center gap-4 mt-4 p-4">
+        <div className="md:grid md:grid-cols-2 items-center gap-4  p-4">
           <div>
             <img
               className=" rounded-3xl h-[250px] w-full"
@@ -53,7 +52,7 @@ const Tips = () => {
             </p>
           </div>
         </div>
-        <div className="md:grid md:grid-cols-2 items-center gap-4 mt-4 p-4">
+        <div className="md:grid md:grid-cols-2 items-center gap-4  p-4">
           <div>
             <img
               className=" rounded-3xl h-[250px] w-full"
@@ -63,11 +62,11 @@ const Tips = () => {
           </div>
           <div>
             <h2 className="text-3xl">
-             Rent Calculator: How Much Should You Spend on Rent?
+              Rent Calculator: How Much Should You Spend on Rent?
             </h2>
             <p>
-              Apartment hunting can be exciting, yet overwhelming. Simplify the
-              task by getting organized.
+              Let us know your income, expenses and desired location. We'll help
+              you find the right rent budget.
             </p>
           </div>
         </div>
