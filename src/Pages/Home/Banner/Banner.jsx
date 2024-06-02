@@ -1,14 +1,14 @@
 const Banner = () => {
   return (
     <div
-      className="hero "
+      className="hero min-h-screen "
       style={{
         backgroundImage:
           "url(https://i.ibb.co/CbgWprf/r-architecture-2g-Dwl-Iim3-Uw-unsplash.jpg)",
       }}
     >
       <div className="hero-overlay bg-opacity-60 "></div>
-      <div className="hero-content text-center text-neutral-content lg:h-[650px] ">
+      <div className="hero-content text-center text-neutral-content  ">
         <div className="max-w-md">
           <h1 className="mb-5 text-5xl font-bold">
             Discover a Place You'll Love to Live

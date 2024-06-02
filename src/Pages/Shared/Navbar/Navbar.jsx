@@ -1,13 +1,19 @@
-import React from "react";
+
+// import { useState } from "react";
 import logo from "../../../assets/images/logo/logo.png"
-import menuIcon from "../../../assets/images/logo/icons8-menu.gif"
+// import menuIcon from "../../../assets/images/logo/icons8-menu.gif"
+// import Hamburger from "hamburger-react";
+import { Sling as Hamburger } from 'hamburger-react'
 const Navbar = () => {
+  // const [isOpen, setOpen] = useState(false)
   return (
-    <div className="navbar bg-[#030637] ">
+    // #030637
+    <div className="navbar bg-[#030637]">
       <div className="navbar-start">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost btn-circle">
-            <img className="h-8 w-8" src={ menuIcon} alt="" />
+            {/* <img className="h-8 w-8" src={ menuIcon} alt="" /> */}
+            <Hamburger color="#4FD1C5" />
           </div>
           <ul
             tabIndex={0}
