@@ -56,7 +56,7 @@ const Tips = () => {
           <div>
             <img
               className=" rounded-3xl h-[250px] w-full"
-              src="https://i.ibb.co/G5L3pWD/3493575-521769-PIX9-B3-203.jpg"
+              src="https://i.ibb.co/PCNFF9L/119.jpg"
               alt=""
             />
           </div>
