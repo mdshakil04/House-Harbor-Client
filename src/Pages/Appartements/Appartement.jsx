@@ -10,7 +10,7 @@ const Appartement = ({ appartement }) => {
       <Link>
         <div className="card bg-base-100 shadow-xl">
           <figure>
-            <img src={main_image} />
+            <img className=" md:h-[240px]" src={main_image} />
           </figure>
           <div className="card-body">
             <h2 className="card-title">
