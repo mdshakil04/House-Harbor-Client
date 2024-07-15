@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "address": "123 Main Street, City, Country",
+        "title": "Beautiful Family House",
+        "main_image": "https://example.com/images/main.jpg",
+        "bedroom_img": "https://example.com/images/bedroom.jpg",
+        "drawing_img": "https://example.com/images/drawing.jpg",
+        "dining_img": "https://example.com/images/dining.jpg",
+        "bathroom_img": "https://example.com/images/bathroom.jpg",
+        "kitchen_img": "https://example.com/images/kitchen.jpg",
+        "reviews": [
+            {
+                "reviewer": "John Doe",
+                "comment": "Great place to stay, very comfortable and clean.",
+                "rating": 4.5
+            },
+            {
+                "reviewer": "Jane Smith",
+                "comment": "Had an amazing time, the house is beautiful.",
+                "rating": 5.0
+            }
+        ],
+        "ratings": 4.75,
+        "monthly_rent": 1500,
+        "flat_size": "1200 sqft",
+        "bedroom_quantity": 3,
+        "bathroom_quantity": 2
+    },
+    {
+        "id": 2,
+        "address": "456 Another Street, City, Country",
+        "title": "Modern Apartment in Downtown",
+        "main_image": "https://example.com/images/main2.jpg",
+        "bedroom_img": "https://example.com/images/bedroom2.jpg",
+        "drawing_img": "https://example.com/images/drawing2.jpg",
+        "dining_img": "https://example.com/images/dining2.jpg",
+        "bathroom_img": "https://example.com/images/bathroom2.jpg",
+        "kitchen_img": "https://example.com/images/kitchen2.jpg",
+        "reviews": [
+            {
+                "reviewer": "Alice Johnson",
+                "comment": "Convenient location and modern amenities.",
+                "rating": 4.0
+            },
+            {
+                "reviewer": "Bob Brown",
+                "comment": "Spacious and well-maintained apartment.",
+                "rating": 4.5
+            }
+        ],
+        "ratings": 4.25,
+        "monthly_rent": 1800,
+        "flat_size": "950 sqft",
+        "bedroom_quantity": 2,
+        "bathroom_quantity": 1
+    },
+    {
+        "id": 3,
+        "address": "789 Luxury Road, City, Country",
+        "title": "Spacious Luxury Villa",
+        "main_image": "https://example.com/images/main3.jpg",
+        "bedroom_img": "https://example.com/images/bedroom3.jpg",
+        "drawing_img": "https://example.com/images/drawing3.jpg",
+        "dining_img": "https://example.com/images/dining3.jpg",
+        "bathroom_img": "https://example.com/images/bathroom3.jpg",
+        "kitchen_img": "https://example.com/images/kitchen3.jpg",
+        "reviews": [
+            {
+                "reviewer": "Charlie Davis",
+                "comment": "An amazing experience in a luxurious setting.",
+                "rating": 5.0
+            },
+            {
+                "reviewer": "Dana Lee",
+                "comment": "Perfect for a family vacation, very spacious and elegant.",
+                "rating": 4.8
+            }
+        ],
+        "ratings": 4.9,
+        "monthly_rent": 3000,
+        "flat_size": "2500 sqft",
+        "bedroom_quantity": 4,
+        "bathroom_quantity": 3
+    },
+    {
+        "id": 4,
+        "address": "101 Coastal Avenue, City, Country",
+        "title": "Cozy Beachside Cottage",
+        "main_image": "https://example.com/images/main4.jpg",
+        "bedroom_img": "https://example.com/images/bedroom4.jpg",
+        "drawing_img": "https://example.com/images/drawing4.jpg",
+        "dining_img": "https://example.com/images/dining4.jpg",
+        "bathroom_img": "https://example.com/images/bathroom4.jpg",
+        "kitchen_img": "https://example.com/images/kitchen4.jpg",
+        "reviews": [
+            {
+                "reviewer": "Evan Green",
+                "comment": "Lovely place by the beach, very relaxing.",
+                "rating": 4.7
+            },
+            {
+                "reviewer": "Fiona White",
+                "comment": "A charming cottage with great views.",
+                "rating": 4.5
+            }
+        ],
+        "ratings": 4.6,
+        "monthly_rent": 2000,
+        "flat_size": "1300 sqft",
+        "bedroom_quantity": 3,
+        "bathroom_quantity": 2
+    }
+]
