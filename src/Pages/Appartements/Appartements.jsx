@@ -12,14 +12,13 @@ const Appartements = () => {
     return (
 
         <div>
-            <h1 className=' text-5xl text-center'>All Available Appartements</h1>
-            <div className=' grid lg:grid-cols-4 md:grid-cols-2'>
+            <div className=' grid lg:grid-cols-4 md:grid-cols-2 justify-center gap-4 my-4 p-4 container mx-auto'>
             {
                    appartements.map((appartement) => <Appartement
                         key={appartement._id}
                         appartement={appartement}
                     ></Appartement>)
-                }
+            }
             </div>
         </div>
     );
