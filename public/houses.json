@@ -1,7 +1,8 @@
 [
     {
         "id": 1,
-        "address": "123 Main Street, City, Country",
+        "address": "123 Main Street",
+        "city": "Springfield",
         "title": "Beautiful Family House",
         "main_image": "https://example.com/images/main.jpg",
         "bedroom_img": "https://example.com/images/bedroom.jpg",
@@ -29,7 +30,8 @@
     },
     {
         "id": 2,
-        "address": "456 Another Street, City, Country",
+        "address": "456 Another Street",
+        "city": "Shelbyville",
         "title": "Modern Apartment in Downtown",
         "main_image": "https://example.com/images/main2.jpg",
         "bedroom_img": "https://example.com/images/bedroom2.jpg",
@@ -57,7 +59,8 @@
     },
     {
         "id": 3,
-        "address": "789 Luxury Road, City, Country",
+        "address": "789 Luxury Road",
+        "city": "Capital City",
         "title": "Spacious Luxury Villa",
         "main_image": "https://example.com/images/main3.jpg",
         "bedroom_img": "https://example.com/images/bedroom3.jpg",
@@ -85,7 +88,8 @@
     },
     {
         "id": 4,
-        "address": "101 Coastal Avenue, City, Country",
+        "address": "101 Coastal Avenue",
+        "city": "Beach City",
         "title": "Cozy Beachside Cottage",
         "main_image": "https://example.com/images/main4.jpg",
         "bedroom_img": "https://example.com/images/bedroom4.jpg",

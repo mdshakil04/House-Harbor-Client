@@ -1,3 +1,4 @@
+import Appartements from '../../Appartements/Appartements';
 import Banner from '../Banner/Banner';
 import ExploreHome from '../ExploreHome/ExploreHome';
 import Offer from '../Offer/Offer';
@@ -10,6 +11,7 @@ const Home = () => {
             <Tips></Tips>
             <Offer></Offer>
             <ExploreHome></ExploreHome>
+            <Appartements></Appartements>
         </div>
     );
 };
