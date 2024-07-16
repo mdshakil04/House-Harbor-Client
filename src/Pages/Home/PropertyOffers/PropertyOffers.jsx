@@ -24,6 +24,7 @@ const PropertyOffers = () => {
           </div>
           <div>
             <img
+              className=" lg:h-[350px] w-full"
               src="https://i.ibb.co/5vVh8Ln/high-angle-man-working-as-real-estate-agent.jpg"
               alt="City"
             />
@@ -32,6 +33,7 @@ const PropertyOffers = () => {
         <div className="lg:grid lg:grid-cols-2">
           <div>
             <img
+               className=" lg:h-[350px] w-full"
               src="https://i.ibb.co/jGrs4r6/architecture-small-residential-cottage-surrounded-by-nature-generative-ai.jpg"
               alt="City"
             />

@@ -13,7 +13,7 @@ const Appartement = ({ appartement }) => {
             <img className=" md:h-[240px]" src={main_image} />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">
+            <h2 className="card-title text-xl">
               {title}
               <div className="badge badge-secondary">{ratings}</div>
             </h2>
