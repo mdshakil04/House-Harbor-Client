@@ -16,7 +16,7 @@ const Tips = () => {
         </p>
       </div>
       <div className=" lg:w-1/2 mx-auto container ">
-        <div className="md:grid md:grid-cols-2 items-center gap-4 p-4 hover:bg-sky-100 rounded-3xl transform transition-transform duration-300 lg:hover:scale-105">
+        <div className="md:grid md:grid-cols-2 items-center gap-4 p-4  shadow-2xl rounded-3xl  transform transition-transform duration-300 lg:hover:scale-105">
           <div>
             <img
               className=" rounded-3xl h-[250px] w-full"
@@ -33,7 +33,7 @@ const Tips = () => {
             </p>
           </div>
         </div>
-        <div className="md:grid md:grid-cols-2 items-center gap-4  p-4  hover:bg-sky-100 rounded-3xl transform transition-transform duration-300 lg:hover:scale-105">
+        <div className="md:grid md:grid-cols-2 items-center gap-4  p-4   rounded-3xl shadow-2xl transform transition-transform duration-300 lg:hover:scale-105">
           <div>
             <img
               className=" rounded-3xl h-[250px] w-full"
@@ -52,7 +52,7 @@ const Tips = () => {
             </p>
           </div>
         </div>
-        <div className="md:grid md:grid-cols-2 items-center gap-4  p-4  hover:bg-sky-100 rounded-3xl transform transition-transform duration-300 lg:hover:scale-105">
+        <div className="md:grid md:grid-cols-2 items-center gap-4  p-4   rounded-3xl shadow-2xl transform transition-transform duration-300 lg:hover:scale-105">
           <div>
             <img
               className=" rounded-3xl h-[250px] w-full"

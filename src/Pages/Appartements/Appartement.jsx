@@ -8,7 +8,7 @@ const Appartement = ({ appartement }) => {
   return (
     <div>
       <Link>
-        <div className="card bg-base-100 shadow-xl">
+        <div className="card bg-base-100 border hover:shadow-2xl">
           <figure>
             <img className=" md:h-[240px]" src={main_image} />
           </figure>
