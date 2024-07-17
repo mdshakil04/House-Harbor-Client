@@ -1,4 +1,5 @@
 import Appartements from '../../Appartements/Appartements';
+import Article from '../ArticleSection/Article';
 import Banner from '../Banner/Banner';
 import ExploreHome from '../ExploreHome/ExploreHome';
 import Offer from '../Offer/Offer';
@@ -11,6 +12,7 @@ const Home = () => {
             <Banner></Banner>
             <Tips></Tips>
             <Offer></Offer>
+            <Article></Article>
             <ExploreHome></ExploreHome>
             <Appartements></Appartements>
             <PropertyOffers></PropertyOffers>

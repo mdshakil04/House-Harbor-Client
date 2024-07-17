@@ -18,7 +18,7 @@ const PropertyOffers = () => {
               Connect with more than 75 million renters looking for new homes
               using our comprehensive marketing platform.
             </p>
-            <button className=" btn btn-outline btn-accent text-xl">
+            <button className=" btn btn-primary btn-outline  text-xl">
               List Your Property
             </button>
           </div>
@@ -43,7 +43,7 @@ const PropertyOffers = () => {
             <p>
             Accept applications, process rent payments online, and sign digital leases all powered on a single platform.
             </p>
-            <button className=" btn btn-outline btn-primary text-xl">
+            <button className=" btn btn-primary btn-outline  text-xl">
               Manage Your Property
             </button>
           </div>

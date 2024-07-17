@@ -10,7 +10,7 @@ const Tips = () => {
           Advice from our experts to help you
           <br /> along your rental journey.
           <br />
-          <button className=" btn btn-primary font-bold text-white mt-4">
+          <button className=" btn btn-primary btn-outline text-xl mt-4">
             Visit Rent Blog
           </button>
         </p>
