@@ -9,9 +9,10 @@ const Banner = () => {
     >
       <div className="hero-overlay bg-opacity-60 "></div>
       <div className="hero-content text-center text-neutral-content  ">
-        <div className="max-w-md">
-          <h1 className="mb-5 text-5xl leading-none tracking-wide text-white font-bold">
-            Discover a Place<br/> You'll Love to Live
+        <div className="">
+          {/* max-w-md */}
+          <h1 className="mb-5 text-3xl lg:text-8xl leading-none tracking-wide font-light text-white ">
+            <span className=" text-blue-500">Discover</span> a Place<br/> You'll Love to <span className=" text-blue-500">Live</span> 
           </h1>
           <p className="mb-5 text-white lg:text-xl">
             Helping 10 million renters find their perfect fit.
