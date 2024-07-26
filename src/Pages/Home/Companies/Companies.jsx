@@ -12,10 +12,10 @@ import companyLogo8 from '../../../assets/images/CompanyLogo/image8.jpg'
 const Companies = () => {
     return (
         <div className=' container mx-auto my-8'>
-            <div className=' title'>
-                <h1 className=' text-5xl text-center'>Property management companies in Bangladesh</h1>
+            <div className=' title-container'>
+                <h1 className=' text-5xl text-center'>Property management companies in Dhaka, BD</h1>
             </div>
-            <div className=' image grid lg:grid-cols-4 grid-cols-2 my-4 p-4'>
+            <div className=' image-container grid lg:grid-cols-4 grid-cols-2 my-4 p-4'>
                 <div className=' border border-t-0 border-l-0 p-4'>
                     <img className=' w-[300px] h-[80px]' src={companyLogo1} alt="logo" />
                 </div>
