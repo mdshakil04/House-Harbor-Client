@@ -2,7 +2,7 @@ const Tips = () => {
   return (
     <div className="card lg:card-side max-w-screen-2xl mx-auto mt-8 min-h-screen">
       <div className=" lg:w-1/2 mx-auto lg:mt-72 " >
-        <h2 className=" md:text-8xl text-5xl">
+        <h2 className=" md:text-8xl text-5xl leading-none tracking-wider">
           Renter tips
           <br /> and <span className=" text-blue-500">insights</span>
         </h2>

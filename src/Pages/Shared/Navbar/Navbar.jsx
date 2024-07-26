@@ -8,7 +8,7 @@ const Navbar = () => {
   // const [isOpen, setOpen] = useState(false)
   return (
     // #030637
-    <div className="navbar bg-[#030637]">
+    <div className="navbar bg-[#030637] fixed z-[999]">
       <div className="navbar-start">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost btn-circle">
