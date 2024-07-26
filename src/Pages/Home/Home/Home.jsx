@@ -1,6 +1,7 @@
 import Appartements from '../../Appartements/Appartements';
 import Article from '../ArticleSection/Article';
 import Banner from '../Banner/Banner';
+import Companies from '../Companies/Companies';
 import ExploreHome from '../ExploreHome/ExploreHome';
 import Offer from '../Offer/Offer';
 import PropertyOffers from '../PropertyOffers/PropertyOffers';
@@ -16,6 +17,7 @@ const Home = () => {
             <ExploreHome></ExploreHome>
             <Appartements></Appartements>
             <PropertyOffers></PropertyOffers>
+            <Companies></Companies>
         </div>
     );
 };
