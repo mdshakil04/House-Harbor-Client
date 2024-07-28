@@ -11,7 +11,7 @@ import companyLogo8 from '../../../assets/images/CompanyLogo/image8.jpg'
 
 const Companies = () => {
     return (
-        <div className=' container mx-auto my-8'>
+        <div className=' container mx-auto my-8 lg:my-24'>
             <div className=' title-container'>
                 <h1 className=' text-5xl text-center'>Property management companies in Dhaka, BD</h1>
             </div>

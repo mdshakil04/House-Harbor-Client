@@ -4,6 +4,7 @@
 // import menuIcon from "../../../assets/images/logo/icons8-menu.gif"
 // import Hamburger from "hamburger-react";
 import { Sling as Hamburger } from 'hamburger-react'
+import { Link } from 'react-router-dom';
 const Navbar = () => {
   // const [isOpen, setOpen] = useState(false)
   return (
@@ -20,13 +21,17 @@ const Navbar = () => {
             className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
           >
             <li>
-              <a>Homepage</a>
+              <Link to="/">Home</Link>
+            </li>
+
+            <li>
+              <Link to="/appartments">Appartments</Link>
             </li>
             <li>
-              <a>Property Listing</a>
+              <Link to="/property">Property Management</Link>
             </li>
             <li>
-              <a>About</a>
+              <Link to="/about">About Us</Link>
             </li>
           </ul>
         </div>
