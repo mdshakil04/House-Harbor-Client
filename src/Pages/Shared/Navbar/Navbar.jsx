@@ -1,8 +1,4 @@
-// import { useState } from "react";
-// import logo from "../../../assets/images/logo/logo.png"
-// import menuIcon from "../../../assets/images/logo/icons8-menu.gif"
-// import Hamburger from "hamburger-react";
-// import { Sling as Hamburger } from 'hamburger-react'
+
 import { Link } from "react-router-dom";
 const Navbar = () => {
   // const [isOpen, setOpen] = useState(false)
